@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The Task Management System is a command-line application that enables users to manage tasks, names, and labels using a relational database. Built with Python and SQLAlchemy, it provides a straightforward interface for performing CRUD operations on tasks, names, and labels while maintaining database integrity through cascading deletions.
+The Task Management System is a command-line application that enables users to manage tasks, names, and labels using a relational database. It provides a straightforward interface for performing CRUD operations on tasks, names, and labels while maintaining database integrity through cascading deletions.
 
 # Features
 Task Management: Add, view, update, and delete tasks.

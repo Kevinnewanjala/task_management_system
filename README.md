@@ -19,14 +19,32 @@ SQLite (default database)
 ## Project Structure
 
 ├── app.py
+
+
 ├── models
+
+
 │   ├── __init__.py
+
+
 │   ├── name.py
+
+
 │   ├── task.py
+
+
 │   └── label.py
+
+
 ├── database
+
+
 │   ├── __init__.py
+
+
 │   └── connection.py
+
+
 └── README.md
 
 # Installation

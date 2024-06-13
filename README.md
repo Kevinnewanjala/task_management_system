@@ -92,6 +92,18 @@ Provides a function to create a new database session.
 Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
+# Contributing
+
+Encourage others to contribute to your project and outline the specific steps they need to take to do so. Include guidelines for code style, testing, and submitting pull requests.
+
+Fork the repository
+Create a new branch (git checkout -b feature/awesome-feature)
+Make your changes
+Commit your changes (git commit -am 'Add awesome feature')
+Push to the branch (git push origin feature/awesome-feature)
+Create a new Pull Request
+
+
 # License
 
 MIT License
